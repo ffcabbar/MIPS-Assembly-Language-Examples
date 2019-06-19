@@ -5,6 +5,8 @@ There are lots of examples here about MIPS Assembly Language. Level of examples 
 You have to download QtSpim because of this program provides  compilation  your codes.
 [QtSpim](http://spimsimulator.sourceforge.net/) - Download
 
+Need to a text-editor. I suggest Notepad++.
+[Notepad++](https://notepad-plus-plus.org/download/v7.7.html)
 
 ## Simple example of code
 ```bash
