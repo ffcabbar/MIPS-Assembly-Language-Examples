@@ -1,5 +1,5 @@
 # MIPS-Assembly-Language-Examples
-:point_right: There are lots of examples here about MIPS Assembly Language. Level of examples from scratch.İf you want to know MIPS, you can use these examples. These examples easy to learn. End of the topics, you can create a calculator or sorting algorithms easily.I hope they help someone out there. Good luck Everyone :m:)
+:point_right: There are lots of examples here about MIPS Assembly Language. Level of examples from scratch.İf you want to know MIPS, you can use these examples. These examples easy to learn. End of the topics, you can create a calculator or sorting algorithms easily.I hope they help someone out there. Good luck Everyone :metal: :)
 
 ## Installation and Requirements
 You have to download QtSpim because of this program provides  compilation  your codes.
